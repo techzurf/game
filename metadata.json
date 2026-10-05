@@ -1,0 +1,6 @@
+{
+  "name": "Tap the Target",
+  "description": "Fast-paced mobile reflex game where players have 30 seconds to tap shrinking targets and achieve the highest score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
